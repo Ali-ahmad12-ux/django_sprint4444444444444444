@@ -6,9 +6,17 @@ __pycache__/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+<<<<<<< HEAD
 
 # Virtual Environment
 venv/
+=======
+media/
+
+# Virtual Environment
+venv/
+myenv/
+>>>>>>> 896595ac6b3b1f59eb828afdb6c04922758e8b71
 env/
 ENV/
 env.bak/
@@ -59,16 +67,26 @@ htmlcov/
 # Environment
 .env
 .venv
+<<<<<<< HEAD
 
 # Django media files
 media/
+=======
+env/
+venv/
+>>>>>>> 896595ac6b3b1f59eb828afdb6c04922758e8b71
 
 # Django sent emails
 sent_emails/
 
+<<<<<<< HEAD
 # Static files collected
 staticfiles/
 
 # Database backups
 *.backup
 *.dump
+=======
+# Static files generated during development
+staticfiles/
+>>>>>>> 896595ac6b3b1f59eb828afdb6c04922758e8b71
